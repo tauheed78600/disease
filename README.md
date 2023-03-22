@@ -1,1 +1,1 @@
-# disease
+# This is an attempt to predict the disease using the symptopms given by the users using Machine Learning Algorithms. Various Machine Learning Algorithms like Random Forest Algorithm, Decision Tree Algorithm and Naive Bayes Prediction are use to find the Disease the Patient is facing using the Symttoms given.
